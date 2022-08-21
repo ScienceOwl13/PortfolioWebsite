@@ -1,21 +1,28 @@
-body {
-    /* background-color: black;
-    color: white; */
-    font-family: "Trebuchet MS", Helvetica, sans-serif;
+body{
+    background-color: #000000;
+    color: #ffffff;
 
-    padding-left: 24px;
-    padding-right: 24px;
-    padding-top: 24px;
-    padding-bottom: 24px;
-    
 }
+.title{
+    color: #0dbf37;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 75px;
+    margin-bottom: 0px;
 
-.hello{
-    color: red;
-    padding-left: 40%;
-    padding-right: 40%;
 }
-
-.centre{
+.centreText{
     text-align: center;
+}
+
+.subtitle{
+    color: #0dbf37;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 25px;
+    margin-top: 0px;
+    padding-top: 10px;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
 }
