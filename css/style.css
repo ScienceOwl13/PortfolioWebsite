@@ -1,0 +1,21 @@
+body {
+    /* background-color: black;
+    color: white; */
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    
+}
+
+.hello{
+    color: red;
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+.centre{
+    text-align: center;
+}
